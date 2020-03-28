@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "419222263897",
+    "firebase_url": "https://lojavirtual-9d6ea.firebaseio.com",
+    "project_id": "lojavirtual-9d6ea",
+    "storage_bucket": "lojavirtual-9d6ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419222263897:android:fe5026793be988970bf948",
+        "android_client_info": {
+          "package_name": "br.com.rodrigues.loja_virtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419222263897-p7vo52de8cbku41d4nqj4kfg53p3iep3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.rodrigues.loja_virtual",
+            "certificate_hash": "f2bdbdd7e2bf46c710fe8f1aeb8c2cd20ad44dc4"
+          }
+        },
+        {
+          "client_id": "419222263897-qb3vh44f3vrmvudgm0f9geer66jfgabr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj2CvKNcMnOuCvXsWz6jr2CKRUiN031DQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419222263897-qb3vh44f3vrmvudgm0f9geer66jfgabr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "419222263897-knc2a2j9vgpt1a0qghsrumggofhfi9lp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rodrigues.erploja"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419222263897:android:f2f33d4bdbc4d9d40bf948",
+        "android_client_info": {
+          "package_name": "com.rodrigues.erploja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419222263897-qb3vh44f3vrmvudgm0f9geer66jfgabr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj2CvKNcMnOuCvXsWz6jr2CKRUiN031DQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419222263897-qb3vh44f3vrmvudgm0f9geer66jfgabr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "419222263897-knc2a2j9vgpt1a0qghsrumggofhfi9lp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rodrigues.erploja"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

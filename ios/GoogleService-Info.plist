@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>419222263897-knc2a2j9vgpt1a0qghsrumggofhfi9lp.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.419222263897-knc2a2j9vgpt1a0qghsrumggofhfi9lp</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>419222263897-p7vo52de8cbku41d4nqj4kfg53p3iep3.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBAQS9YgblWDqwywyDzHH4wuoAi5fyp7iM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>419222263897</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.rodrigues.erploja</string>
+	<key>PROJECT_ID</key>
+	<string>lojavirtual-9d6ea</string>
+	<key>STORAGE_BUCKET</key>
+	<string>lojavirtual-9d6ea.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:419222263897:ios:cf57f71aa3deacd00bf948</string>
+	<key>DATABASE_URL</key>
+	<string>https://lojavirtual-9d6ea.firebaseio.com</string>
+</dict>
+</plist>
